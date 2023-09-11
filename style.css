@@ -1,0 +1,36 @@
+.body {
+    font-family: 'Are You Serious', serif;
+    background-color: chartreuse;
+}
+
+.header_div {
+    background-color: aqua;
+}
+
+.main_div{
+    background-color: bisque;
+}
+.footer_div{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+.p{
+    font-size: medium;
+    font-weight: 300;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+    width: 5px;
+    letter-spacing: 2px;
+}
